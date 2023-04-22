@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rr29bnqn3u0rd21s?svg=true)](https://ci.appveyor.com/project/LSimutina/avto2-3-patterns-2)
